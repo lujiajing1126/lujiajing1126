@@ -6,4 +6,4 @@
 - 🔭 Currently working on APM system
 - ✨ Focus on Java and Go
 - 😺 Open source contributor
-- 📝 [Publications](https://ui.adsabs.harvard.edu/user/libraries/nNEKWmqEROSde1Gf4tww2Q)
+- 📝 [Publications](https://ui.adsabs.harvard.edu/public-libraries/nNEKWmqEROSde1Gf4tww2Q)
