@@ -3,7 +3,7 @@
 ### Ciao a tutti 👋
 
 - 🎓 Ph.D. in nuclear physics
-- 🔭 Currently working on APM system
+- 🔭 Currently working on APM systems
 - ✨ Focus on Java and Go
-- 😺 Apache Skywalking committer, open source contributor
+- 😺 Apache SkyWalking committer, PMC member; open source contributor
 - 📝 [Publications](https://ui.adsabs.harvard.edu/public-libraries/nNEKWmqEROSde1Gf4tww2Q)
